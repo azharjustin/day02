@@ -1,0 +1,44 @@
+1.difference between Browser JS(console) v Nodejs
+  
+    Javascript                                     nodejs                                           
+ *Javascript is a programming language that       *NodeJS is a Javascript runtime environment.
+ is used for writing scripts on the website.
+ 
+ *Javascript can only be run in the browsers.     *We can run Javascript outside the browser 
+                                                   with the help of NodeJS.
+ 
+ *It is basically used on the client-side.        *It is mostly used on the server-side.
+
+ *Javascript can run in any browser engine        *V8 is the Javascript engine inside of node.
+  as like JS core in safari and Spidermonkey       js that parses and runs Javascript.  
+  in Firefox.
+  
+ *Javascript is used in frontend development.     *Nodejs is used in server-side development.
+
+
+
+
+2. summary 5 points - 
+
+  *parsing to dom tree
+  *dom tree to render tree 
+  *inline critical css(speeds up first paint time)
+  *layout computes where a node will be on the screen
+  *delta last bitmap
+  *immediate layout(same with browser resize)
+  *doing a font sixe change will layout the entire document
+
+
+4.Execute the below code and write your description in txt file
+  
+  *typeof(1) -number
+  *typeof(1.1)-number
+  *typeof('1.1')-string
+  *typeof(true)-boolean
+  *typeof(null)-object
+  *typeof(undefined)-undefined
+  *typeof([])-object
+  *typeof({})-object
+  *typeof(NaN)-number
+ 
+                                     
